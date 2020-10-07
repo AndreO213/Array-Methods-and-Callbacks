@@ -110,9 +110,9 @@ let avgAwayGoals = Math.round(data.reduce((acc, index) => {return acc +
     Hint: Investigate your data to find "team initials"!
     Hint: use `.reduce` */
 
-    function getCountryWins(/* code here */) {
+    function getCountryWins(data, teamInitials) {
 
-        /* code here */
+        return 
 
     };
 
